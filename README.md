@@ -1,2 +1,4 @@
-#Some basic example when I am learning "GoF Design-Pattern"
-##On going...
+# Some basic examples when I am learning "GoF Design-Pattern"
+## On going...
+
+#### Copyright &#169; 2024 đức.nt
