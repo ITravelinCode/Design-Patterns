@@ -42,4 +42,28 @@ public class Student {
     public String getPhone() {
         return phone;
     }
+
+    public void setId(String id) {
+        this.id = id;
+    }
+
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public void setDateOfBirth(String dateOfBirth) {
+        this.dateOfBirth = dateOfBirth;
+    }
+
+    public void setCurrentClass(String currentClass) {
+        this.currentClass = currentClass;
+    }
+
+    public void setPhone(String phone) {
+        this.phone = phone;
+    }
 }
