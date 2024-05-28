@@ -1,4 +1,4 @@
-package behaviroal_pattern.student_homework;
+package behaviroal_pattern.iterator.student_homework;
 /**
  * Concrete Collection: Lớp implement Iterable Collection*/
 public class ConcreteCollection implements IterableCollection{

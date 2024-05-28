@@ -1,4 +1,4 @@
-package behaviroal_pattern.social_network_homework;
+package behaviroal_pattern.iterator.social_network_homework;
 /**
  * Concrete Collection: Lớp implement Iterable Collection*/
 public class Facebook implements SocialNetwork{

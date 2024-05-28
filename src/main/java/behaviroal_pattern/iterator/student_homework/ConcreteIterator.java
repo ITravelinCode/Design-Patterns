@@ -1,4 +1,4 @@
-package behaviroal_pattern.student_homework;
+package behaviroal_pattern.iterator.student_homework;
 /**
  * Concrete Iterator: là lớp triển khai Iterator*/
 public class ConcreteIterator<T> implements Iterator<T>{

@@ -1,4 +1,4 @@
-package behaviroal_pattern.student_homework;
+package behaviroal_pattern.iterator.student_homework;
 
 public class Student {
     private String firstName;

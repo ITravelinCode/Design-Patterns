@@ -1,4 +1,4 @@
-package behaviroal_pattern.student_homework;
+package behaviroal_pattern.iterator.student_homework;
 
 public class StudentMain {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package behaviroal_pattern.student_homework;
+package behaviroal_pattern.iterator.student_homework;
 /**
  * Iterator: Là một interface hoặc abstract class định nghĩa các phương thức cần thiết để
  * duyệt qua một collection như hasMore(), getNext()*/

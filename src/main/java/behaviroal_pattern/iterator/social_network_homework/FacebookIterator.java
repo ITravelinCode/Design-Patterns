@@ -1,4 +1,4 @@
-package behaviroal_pattern.social_network_homework;
+package behaviroal_pattern.iterator.social_network_homework;
 /**
  * Concrete Iterator: là lớp triển khai Iterator*/
 public class FacebookIterator implements ProfileIterator{
